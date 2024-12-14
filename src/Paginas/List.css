@@ -1,0 +1,8 @@
+.card {
+  width: 18rem;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: row;
+}

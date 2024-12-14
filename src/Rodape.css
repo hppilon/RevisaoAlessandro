@@ -1,0 +1,9 @@
+footer {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+footer h3 {
+  font-size: 12px;
+}
